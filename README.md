@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Yuri Fernando
 
-<!--
-**Yuri-Fernando/Yuri-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Automação & RPA | NLP | Data-Driven Solutions**  
+Crio agentes de IA, automações inteligentes e soluções orientadas a dados para gerar impacto real em processos de negócio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Sobre mim
+
+- Trabalho com automação completa de processos (RPA), análise de dados e IA generativa.  
+- Tenho experiência prática integrando sistemas, criando agentes no **n8n**, e construindo aplicações com **Streamlit**, **Python**, e infraestrutura na nuvem.  
+- Meu foco é entregar **eficiência**, **escala** e **governança corporativa** por meio da tecnologia — nada de automação só por automação.  
+- Gosto de resolver problemas complexos: desde reconciliação contábil automatizada até previsões de score de crédito.  
+
+---
+
+## 💼 Projetos em destaque
+
+Aqui estão alguns dos meus principais projetos, que mostram tanto minha capacidade técnica quanto minha visão de produto:
+
+| Projeto | O que ele faz |
+| **Projeto-RPA-Contábil-Inteligente** | Automação completa do processo de conciliação contábil, com integração de dados, análise inteligente e governança. |
+| **Agente-Calendar-com-Hubspot** | Agente que conecta eventos de calendário com HubSpot para facilitar seguimento e automação comercial. |
+| **Recomendador de Produtos (NLP + Grafo)** | Motor de recomendação usando processamento de linguagem natural e grafos para sugerir produtos relevantes. |
+| **Credit-Score-Predictor (AWS + Streamlit)** | App preditivo de score de crédito, hospedado na nuvem, com interface web simples e funcional. |
+| **Agente RAG (n8n)** | Agente de recuperação + geração usando n8n, para automatizar tarefas com base em IA generativa. |
+
+---
+
+## 🛠️ Tecnologias que uso
+
+- **Linguagens**: Python, Typescript, C++  
+- **IA / ML**: NLP, RAG, QAOA (otimização quântica), análise preditiva  
+- **Automação / Orquestração**: n8n, RPA  
+- **Infraestrutura / Deploy**: AWS, Streamlit  
+- **Ferramentas de Integração**: APIs REST, HubSpot, Grafos
+
+🛠️ Tech Stack
+- tech_stack = {
+    "AI/ML": ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn"],
+    "Languages": ["Python", "C++"],
+    "Focus": ["Computer Vision", "Deep Learning", "LLMs", "Gen AI"]
+}
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<!-- Se quiser, você pode usar GitHub Readme Stats para mostrar seus stats:
+[![Yuri’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-Fernando&show_icons=true)](https://github.com/Yuri-Fernando)
 -->
+
+---
+
+## ✅ Curiosidades
+
+- Sempre buscando aprender novas ferramentas de IA 😉  
+- Trabalhei com projetos acadêmicos (mestrado) e aplico esse conhecimento em automações práticas  
+- Acredito que a tecnologia deve servir ao negócio — não o contrário
+
+---
