@@ -34,22 +34,6 @@ Aqui estão alguns dos meus principais projetos, que mostram tanto minha capacid
 - **Automação / Orquestração**: n8n, RPA  
 - **Infraestrutura / Deploy**: AWS, Streamlit  
 - **Ferramentas de Integração**: APIs REST, HubSpot, Grafos
-
-tech_stack = {
-    "AI/ML": ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn"],
-    "Languages": ["Python", "C++"],
-    "Focus": ["Computer Vision", "Deep Learning", "LLMs", "Gen AI"]
-}
-
-
----
-
-## 📈 Estatísticas do GitHub
-
-<!-- Se quiser, você pode usar GitHub Readme Stats para mostrar seus stats:
-[![Yuri’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-Fernando&show_icons=true)](https://github.com/Yuri-Fernando)
--->
-
 ---
 
 ## ✅ Curiosidades
