@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Yuri Fernando
+# 👋 Olá, eu sou o Yuri Fernando Dubbern
 
 **AI Engineer | Automação & RPA | NLP | Data-Driven Solutions**  
 Crio agentes de IA, automações inteligentes e soluções orientadas a dados para gerar impacto real em processos de negócio.
@@ -19,11 +19,11 @@ Crio agentes de IA, automações inteligentes e soluções orientadas a dados pa
 Aqui estão alguns dos meus principais projetos, que mostram tanto minha capacidade técnica quanto minha visão de produto:
 
 
-- **Projeto-RPA-Contábil-Inteligente** Automação completa do processo de conciliação contábil, com integração de dados, análise inteligente e governança. |
-- **Agente-Calendar-com-Hubspot**Agente que conecta eventos de calendário com HubSpot para facilitar seguimento e automação comercial. |
-- **Recomendador de Produtos (NLP + Grafo)**  Motor de recomendação usando processamento de linguagem natural e grafos para sugerir produtos relevantes. |
-- **Credit-Score-Predictor (AWS + Streamlit)**  App preditivo de score de crédito, hospedado na nuvem, com interface web simples e funcional. |
-- **Agente RAG (n8n)** Agente de recuperação + geração usando n8n, para automatizar tarefas com base em IA generativa. |
+- **Projeto-RPA-Contábil-Inteligente** Automação completa do processo de conciliação contábil, com integração de dados, análise inteligente e governança. 
+- **Agente-Calendar-com-Hubspot**Agente que conecta eventos de calendário com HubSpot para facilitar seguimento e automação comercial. 
+- **Recomendador de Produtos (NLP + Grafo)**  Motor de recomendação usando processamento de linguagem natural e grafos para sugerir produtos relevantes. 
+- **Credit-Score-Predictor (AWS + Streamlit)**  App preditivo de score de crédito, hospedado na nuvem, com interface web simples e funcional. 
+- **Agente RAG (n8n)** Agente de recuperação + geração usando n8n, para automatizar tarefas com base em IA generativa. 
 
 ---
 
