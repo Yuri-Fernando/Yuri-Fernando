@@ -35,12 +35,12 @@ Aqui estão alguns dos meus principais projetos, que mostram tanto minha capacid
 - **Infraestrutura / Deploy**: AWS, Streamlit  
 - **Ferramentas de Integração**: APIs REST, HubSpot, Grafos
 
-🛠️ Tech Stack
-- tech_stack = {
+tech_stack = {
     "AI/ML": ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn"],
     "Languages": ["Python", "C++"],
     "Focus": ["Computer Vision", "Deep Learning", "LLMs", "Gen AI"]
 }
+
 
 ---
 
