@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Yuri Fernando Dubbern  
-AI Engineer | Engenheiro de Dados | Automação & Robótica | Data Science, BI & Analytics  
+AI Engineer | Data Engineering | Automação, Robótica & Sistemas Inteligentes
 
 Desenvolvo **agentes de IA, automações inteligentes e soluções orientadas a dados** para resolver problemas reais de negócio — com foco em eficiência operacional, escala e governança.
 
