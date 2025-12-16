@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Yuri Fernando Dubbern
 
-**AI Engineer | Automação & RPA | NLP | Data-Driven Solutions**  
+**AI Engineer/Researcher | Data Science & Analytics  | Data-Driven Solutions**  
 Crio agentes de IA, automações inteligentes e soluções orientadas a dados para gerar impacto real em processos de negócio.
 
 ---
@@ -17,7 +17,6 @@ Crio agentes de IA, automações inteligentes e soluções orientadas a dados pa
 ## 💼 Projetos em destaque
 
 Aqui estão alguns dos meus principais projetos, que mostram tanto minha capacidade técnica quanto minha visão de produto:
-
 
 - **Projeto-RPA-Contábil-Inteligente** Automação completa do processo de conciliação contábil, com integração de dados, análise inteligente e governança. 
 - **Agente-Calendar-com-Hubspot**Agente que conecta eventos de calendário com HubSpot para facilitar seguimento e automação comercial. 
