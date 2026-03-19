@@ -30,7 +30,9 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Roteamento dinâmico de tarefas e orquestração de agentes
 - Estrutura pensada para escala, observabilidade e evolução contínua
 - Projeto focado em transformar IA em infraestrutura reutilizável, não apenas aplicações isoladas.
-- Resultado: Potencial redução significativa de esforço manual em tarefas cognitivas complexas
+
+  **Resultado**
+  Potencial redução significativa de esforço manual em tarefas cognitivas complexas
 
  [Churn Intelligence](https://github.com/Yuri-Fernando/Churn_intelligence)
 - Sistema preditivo para retenção de clientes
@@ -39,7 +41,9 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Identificação de clientes com risco de evasão
 - Aplicação direta em estratégias de retenção
 - Foco em impacto de negócio: redução de churn e aumento de LTV
-- Resultado: Possível redução de churn através de ações preditivas baseadas em dados
+
+  **Resultado**
+  Possível redução de churn através de ações preditivas baseadas em dados
 
  [Automação com n8n](https://github.com/Yuri-Fernando/n8n)
 - Ecossistema de workflows automatizados
@@ -48,7 +52,9 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Estrutura reutilizável para automações escaláveis
 - Aplicações reais com foco em ganho de eficiência operacional
 - Automação aqui não é tarefa — é sistema integrado de decisão e execução
-- Resultado: Redução de processos manuais e aumento de eficiência operacional
+
+  **Resultado**
+  Redução de processos manuais e aumento de eficiência operacional
 
 [Credit Score Predictor (AWS + Streamlit)](https://github.com/Yuri-Fernando/Credit-Score-Predictor---AWS-Streamlit)
 - Aplicação preditiva de risco de crédito
@@ -57,7 +63,9 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Interface web simples com Streamlit
 - Pipeline enxuto, mas funcional e orientado a produto
 - Demonstra capacidade de levar um modelo do código até o usuário final
-- Resultado: Apoio à tomada de decisão com análise preditiva de risco
+
+  **Resultado**
+  Apoio à tomada de decisão com análise preditiva de risco
 
 [RPA Contábil Inteligente](https://github.com/Yuri-Fernando/Projeto-RPA-Contabil_Inteligente)
 - Automação de conciliação contábil
@@ -66,7 +74,9 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Aplicação de lógica de negócio + análise inteligente
 - Foco em governança, confiabilidade e redução de esforço manual
 - Resolve um problema crítico com automação + inteligência aplicada
-- Resultado: Automação de tarefas repetitivas com potencial redução de erros operacionais
+
+  **Resultado**
+  Automação de tarefas repetitivas com potencial redução de erros operacionais
 
 ---
 
