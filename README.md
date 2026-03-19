@@ -22,7 +22,7 @@ Trabalho com visão de produto: não é só código, é solução aplicada.
 ## Projetos em destaque
 Aqui estão alguns dos principais projetos que representam minha capacidade de construir soluções de IA aplicadas a negócio:
 
-OmniMind AI OS
+ [OmniMind AI OS](https://github.com/Yuri-Fernando/OmniMind_AI_OS) 
 - Infraestrutura de AI Agents (Agent OS)
 - Arquitetura modular baseada em multi-agentes
 - Integração com LLMs locais e cloud
@@ -31,7 +31,7 @@ OmniMind AI OS
 - Estrutura pensada para escala, observabilidade e evolução contínua
 - Projeto focado em transformar IA em infraestrutura reutilizável, não apenas aplicações isoladas.
 
-Churn Intelligence
+ [Churn Intelligence](https://github.com/Yuri-Fernando/Churn_intelligence)
 - Sistema preditivo para retenção de clientes
 - Pipeline completo de Machine Learning (da coleta à predição)
 - Análise comportamental e feature engineering
@@ -39,7 +39,7 @@ Churn Intelligence
 - Aplicação direta em estratégias de retenção
 - Foco em impacto de negócio: redução de churn e aumento de LTV
 
-Automação Inteligente com n8n
+ [Automação com n8n](https://github.com/Yuri-Fernando/n8n)
 - Ecossistema de workflows automatizados
 - Criação de automações integrando múltiplos sistemas via APIs
 - Orquestração de processos de negócio (financeiro, CRM, operações)
