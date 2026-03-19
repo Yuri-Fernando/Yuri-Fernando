@@ -29,7 +29,7 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Pipeline com RAG + memória persistente
 - Roteamento dinâmico de tarefas e orquestração de agentes
 - Estrutura pensada para escala, observabilidade e evolução contínua
-👉 Projeto focado em transformar IA em infraestrutura reutilizável, não apenas aplicações isoladas.
+- 👉 Projeto focado em transformar IA em infraestrutura reutilizável, não apenas aplicações isoladas.
 
 📊 Churn Intelligence
 - Sistema preditivo para retenção de clientes
@@ -37,7 +37,7 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Análise comportamental e feature engineering
 - Identificação de clientes com risco de evasão
 - Aplicação direta em estratégias de retenção
-👉 Foco em impacto de negócio: redução de churn e aumento de LTV
+- 👉 Foco em impacto de negócio: redução de churn e aumento de LTV
 
 ⚙️ Automação Inteligente com n8n
 - Ecossistema de workflows automatizados
@@ -45,7 +45,7 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Orquestração de processos de negócio (financeiro, CRM, operações)
 - Estrutura reutilizável para automações escaláveis
 - Aplicações reais com foco em ganho de eficiência operacional
-👉 Automação aqui não é tarefa — é sistema integrado de decisão e execução
+- 👉 Automação aqui não é tarefa — é sistema integrado de decisão e execução
 
 💰 Credit Score Predictor (AWS + Streamlit)
 - Aplicação preditiva de risco de crédito
@@ -53,7 +53,7 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Deploy em ambiente cloud (AWS)
 - Interface web simples com Streamlit
 - Pipeline enxuto, mas funcional e orientado a produto
-👉 Demonstra capacidade de levar um modelo do código até o usuário final
+- 👉 Demonstra capacidade de levar um modelo do código até o usuário final
 
 🧾 RPA Contábil Inteligente
 - Automação de conciliação contábil
@@ -61,7 +61,7 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Processamento automatizado e validação de inconsistências
 - Aplicação de lógica de negócio + análise inteligente
 - Foco em governança, confiabilidade e redução de esforço manual
-👉 Resolve um problema crítico com automação + inteligência aplicada
+- 👉 Resolve um problema crítico com automação + inteligência aplicada
 
 ---
 
