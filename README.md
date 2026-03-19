@@ -47,7 +47,7 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 - Aplicações reais com foco em ganho de eficiência operacional
 - Automação aqui não é tarefa — é sistema integrado de decisão e execução
 
-Credit Score Predictor (AWS + Streamlit)
+[Credit Score Predictor (AWS + Streamlit)](https://github.com/Yuri-Fernando/Credit-Score-Predictor---AWS-Streamlit)
 - Aplicação preditiva de risco de crédito
 - Modelo de Machine Learning para análise de score
 - Deploy em ambiente cloud (AWS)
@@ -55,7 +55,7 @@ Credit Score Predictor (AWS + Streamlit)
 - Pipeline enxuto, mas funcional e orientado a produto
 - Demonstra capacidade de levar um modelo do código até o usuário final
 
-RPA Contábil Inteligente
+[RPA Contábil Inteligente](https://github.com/Yuri-Fernando/Projeto-RPA-Contabil_Inteligente)
 - Automação de conciliação contábil
 - Integração de múltiplas fontes de dados
 - Processamento automatizado e validação de inconsistências
