@@ -22,45 +22,45 @@ Desenvolvo **agentes de IA, automações inteligentes e soluções orientadas a 
 ## 💼 Projetos em destaque
 Aqui estão alguns dos principais projetos que representam minha capacidade de construir soluções de IA aplicadas a negócio:
 
-**🧠 OmniMind AI OS**
-Sistema operacional de agentes inteligentes (AI Agent OS)
-Arquitetura modular baseada em multi-agentes
-Integração com LLMs locais e cloud
-Pipeline com RAG + memória persistente
-Roteamento dinâmico de tarefas e orquestração de agentes
-Estrutura pensada para escala, observabilidade e evolução contínua
+🧠 OmniMind AI OS
+- Sistema operacional de agentes inteligentes (AI Agent OS)
+- Arquitetura modular baseada em multi-agentes
+- Integração com LLMs locais e cloud
+- Pipeline com RAG + memória persistente
+- Roteamento dinâmico de tarefas e orquestração de agentes
+- Estrutura pensada para escala, observabilidade e evolução contínua
 👉 Projeto focado em transformar IA em infraestrutura reutilizável, não apenas aplicações isoladas.
 
-**📊 Churn Intelligence**
-Sistema preditivo para retenção de clientes
-Pipeline completo de Machine Learning (da coleta à predição)
-Análise comportamental e feature engineering
-Identificação de clientes com risco de evasão
-Aplicação direta em estratégias de retenção
+📊 Churn Intelligence
+- Sistema preditivo para retenção de clientes
+- Pipeline completo de Machine Learning (da coleta à predição)
+- Análise comportamental e feature engineering
+- Identificação de clientes com risco de evasão
+- Aplicação direta em estratégias de retenção
 👉 Foco em impacto de negócio: redução de churn e aumento de LTV
 
-**⚙️ Automação Inteligente com n8n**
-Ecossistema de workflows automatizados
-Criação de automações integrando múltiplos sistemas via APIs
-Orquestração de processos de negócio (financeiro, CRM, operações)
-Estrutura reutilizável para automações escaláveis
-Aplicações reais com foco em ganho de eficiência operacional
+⚙️ Automação Inteligente com n8n
+- Ecossistema de workflows automatizados
+- Criação de automações integrando múltiplos sistemas via APIs
+- Orquestração de processos de negócio (financeiro, CRM, operações)
+- Estrutura reutilizável para automações escaláveis
+- Aplicações reais com foco em ganho de eficiência operacional
 👉 Automação aqui não é tarefa — é sistema integrado de decisão e execução
 
-**💰 Credit Score Predictor (AWS + Streamlit)**
-Aplicação preditiva de risco de crédito
-Modelo de Machine Learning para análise de score
-Deploy em ambiente cloud (AWS)
-Interface web simples com Streamlit
-Pipeline enxuto, mas funcional e orientado a produto
+💰 Credit Score Predictor (AWS + Streamlit)
+- Aplicação preditiva de risco de crédito
+- Modelo de Machine Learning para análise de score
+- Deploy em ambiente cloud (AWS)
+- Interface web simples com Streamlit
+- Pipeline enxuto, mas funcional e orientado a produto
 👉 Demonstra capacidade de levar um modelo do código até o usuário final
 
-**🧾 RPA Contábil Inteligente**
-Automação de conciliação contábil
-Integração de múltiplas fontes de dados
-Processamento automatizado e validação de inconsistências
-Aplicação de lógica de negócio + análise inteligente
-Foco em governança, confiabilidade e redução de esforço manual
+🧾 RPA Contábil Inteligente
+- Automação de conciliação contábil
+- Integração de múltiplas fontes de dados
+- Processamento automatizado e validação de inconsistências
+- Aplicação de lógica de negócio + análise inteligente
+- Foco em governança, confiabilidade e redução de esforço manual
 👉 Resolve um problema crítico com automação + inteligência aplicada
 
 ---
