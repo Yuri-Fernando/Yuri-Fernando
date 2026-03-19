@@ -65,7 +65,7 @@ RPA Contábil Inteligente
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Core Engineering  
 Python • TypeScript • C++  
