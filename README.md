@@ -109,9 +109,10 @@ Design orientado a impacto e eficiência
 
 ---
 ## Como eu Penso
-- Automação sem impacto = Desperdício  
+ 
 - IA sem Arquitetura = Demo  
-- Dados sem Contexto = Ruído  
+- Dados sem Contexto = Ruído
+- Automação sem Impacto = Desperdício 
 
 Foco em Resolver Problemas Reais com Engenharia Sólida + Visão de Produto.
 
