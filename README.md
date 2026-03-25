@@ -109,17 +109,18 @@ Design orientado a impacto e eficiência
 
 ---
 ## Como eu Penso
-- Automação sem impacto = desperdício  
+- Automação sem impacto = Desperdício  
 - IA sem Arquitetura = Demo  
 - Dados sem Contexto = Ruído  
 
-Foco em resolver problemas reais com engenharia sólida + visão de produto.
+Foco em Resolver Problemas Reais com Engenharia Sólida + Visão de Produto.
 
 ---
 
 ##  Curiosidades
-- Experiência acadêmica (mestrado) aplicada em soluções reais  
-- Interesse contínuo em evolução em IA e sistemas inteligentes  
-- Foco em construir tecnologia que gere valor de negócio
+
+- Foco em Construir Tecnologia que gere Valor de Negócio
+- Interesse Contínuo em Evolução em IA e Sistemas Inteligentes
+- Experiência Acadêmica (Mestrado) e Doutorado em Curso, Aplicada em Soluções Reais  
 
 ---
