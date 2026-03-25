@@ -19,7 +19,7 @@ Trabalho com visão de produto: não é só código, é solução aplicada.
 
 ---
 
-## Projetos em destaque
+## Projetos em Destaque
 Aqui estão alguns dos principais projetos que representam minha capacidade de construir soluções de IA aplicadas a negócio:
 
  [OmniMind AI OS](https://github.com/Yuri-Fernando/OmniMind_AI_OS) 
@@ -108,10 +108,10 @@ Arquitetura escalável • IA aplicada a negócio
 Design orientado a impacto e eficiência  
 
 ---
-## Como eu penso
+## Como eu Penso
 - Automação sem impacto = desperdício  
-- IA sem arquitetura = demo  
-- Dados sem contexto = ruído  
+- IA sem Arquitetura = Demo  
+- Dados sem Contexto = Ruído  
 
 Foco em resolver problemas reais com engenharia sólida + visão de produto.
 
