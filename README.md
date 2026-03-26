@@ -5,7 +5,7 @@ Desenvolvo **agentes de IA, automações inteligentes e soluções orientadas a 
 
 ---
 
-## Sobre mim
+## Sobre Mim
 
 Atuo na construção de sistemas inteligentes end-to-end, integrando IA, dados e automação para resolver problemas reais de negócio.
 
@@ -78,6 +78,17 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
   **Resultado**
   Automação de tarefas repetitivas com potencial redução de erros operacionais
 
+[AI-Network-Optimizer](github.com/Yuri-Fernando/AI-Network-Optimizer) 
+- Simulação de arquitetura de telecom baseada em Open RAN (xApp / near-RT RIC)
+- Ingestão de telemetria via gRPC com streaming contínuo
+- Processamento em tempo quase real com serviço de ML desacoplado
+- API REST para exposição de status, alertas e inferência sob demanda
+- Arquitetura distribuída com Docker e Kubernetes
+- Evolução com Redis Streams, observabilidade (Prometheus) e logs estruturados
+- Foco em sistemas escaláveis, desacoplamento e tomada de decisão baseada em dados
+
+**Resultado**
+Construção de um sistema distribuído de IA capaz de simular análise e tomada de decisão em redes de telecom em tempo quase real, demonstrando redução de latência na resposta a eventos e capacidade de escalar processamento de forma independente entre serviços, demonstrando capacidade de resposta a eventos em tempo quase real e arquitetura preparada para escalabilidade horizontal.
 ---
 
 ## Tecnologias
