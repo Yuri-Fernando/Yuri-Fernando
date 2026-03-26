@@ -89,6 +89,8 @@ Aqui estão alguns dos principais projetos que representam minha capacidade de c
 
 **Resultado**
 Construção de um sistema distribuído de IA capaz de simular análise e tomada de decisão em redes de telecom em tempo quase real, demonstrando redução de latência na resposta a eventos e capacidade de escalar processamento de forma independente entre serviços, demonstrando capacidade de resposta a eventos em tempo quase real e arquitetura preparada para escalabilidade horizontal.
+
+
 ---
 
 ## Tecnologias
