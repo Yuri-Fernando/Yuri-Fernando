@@ -1,20 +1,28 @@
 <div align="center">
 
-<a href="https://github.com/Yuri-Fernando">
-  <img src="assets/github-banner.svg" alt="Yuri Fernando Dubbern — AI/ML Engineer | Data & Intelligent Automation" width="100%"/>
-</a>
+# Yuri Fernando Dubbern
+
+### AI/ML Engineer · Generative AI · Data Engineering · Intelligent Automation
+
+**Pesquisador e doutorando em Ciência da Computação | AI Systems · LLMs · Machine Learning · Data · Automation**
 
 <br>
 
-# Yuri Fernando Dubbern
-
-### AI/ML Engineer · AI Agents · Data Engineering · Intelligent Automation
-
-Construo **sistemas de IA, pipelines de Machine Learning, agentes inteligentes e automações orientadas a dados**, conectando modelos, software, infraestrutura e processos de negócio.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Fernando%20Dubbern-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Yuri--Fernando-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Yuri-Fernando)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL_PROFISSIONAL)
+<a href="https://www.linkedin.com/in/yuridubbern">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Yuri-Fernando">
+<img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linktr.ee/yuri.f.dubbern">
+<img src="https://img.shields.io/badge/Linktree-Links-43E55A?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+<a href="http://lattes.cnpq.br/7151392692642166">
+<img src="https://img.shields.io/badge/Lattes-Pesquisa-1E6B8C?style=for-the-badge"/>
+</a>
+<a href="mailto:yuri_dubbern@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,198 +30,241 @@ Construo **sistemas de IA, pipelines de Machine Learning, agentes inteligentes e
 
 ## Sobre
 
-Atuo na interseção entre **Inteligência Artificial, Machine Learning, Data Engineering e Automação**, desenvolvendo soluções que vão do processamento e modelagem de dados até agentes de IA, APIs e sistemas distribuídos.
+Sou **pesquisador e doutorando em Ciência da Computação**, com atuação na construção de soluções que integram **Inteligência Artificial, Machine Learning, engenharia de dados, automação e software**.
 
-Meu foco técnico inclui:
+Meu trabalho combina pesquisa aplicada e desenvolvimento de projetos autorais, explorando desde **LLMs, RAG e sistemas multiagentes** até pipelines de Machine Learning, APIs, microsserviços, cloud e automação de processos.
 
-* **AI Engineering:** LLMs, RAG, AI Agents, Multi-Agent Systems, Tool Calling e Agentic AI
-* **Machine Learning:** classificação, predição, explicabilidade, feature engineering e pipelines
-* **Data Engineering:** ETL, processamento de dados, integração de APIs e arquitetura orientada a dados
-* **Intelligent Automation:** n8n, RPA, workflows e integração de sistemas
-* **Software Engineering:** APIs, microsserviços, arquitetura modular, Docker e Kubernetes
-* **Cloud & MLOps:** AWS, MLflow, observabilidade, CI/CD e deployment de modelos
+Atualmente, estou direcionando essa experiência para o mercado de tecnologia, buscando oportunidades em **AI/ML Engineering, Generative AI, Data Engineering, Machine Learning e Intelligent Automation**.
 
-Tenho background em **Engenharia, Computação e pesquisa aplicada**, utilizando projetos para explorar problemas reais de IA, dados, automação, sistemas distribuídos e otimização.
+---
+
+## Atualmente
+
+* 🔬 **Pesquisando:** Inteligência Artificial, sistemas inteligentes, Machine Learning e aplicações de IA orientadas a dados.
+* 🛠️ **Desenvolvendo:** projetos autorais, SaaS e soluções com **LLMs, agentes de IA, RAG, automação e n8n**.
+* 🎯 **Buscando oportunidades em:** **AI/ML Engineer, Machine Learning Engineer, AI Engineer, Data Engineer, Data Scientist e Intelligent Automation Engineer**.
+* 🚀 **Construindo:** soluções que conectam **dados → inteligência → decisão → execução**.
 
 ---
 
 ## Projetos em Destaque
 
-### 01 · OmniMind AI OS
+### 🤖 OmniMind AI OS
 
-**Sistema modular de orquestração de agentes de IA para resolução de tarefas complexas.**
+Sistema modular para orquestração de **agentes de IA**, com planejamento, RAG, memória, ferramentas dinâmicas, avaliação e observabilidade.
 
-Arquitetura voltada a **Agentic AI**, integrando planejamento, múltiplos agentes especializados, RAG, memória, ferramentas dinâmicas, avaliação e observabilidade.
+**Tecnologias:** Python · LLMs · RAG · AI Agents · Multi-Agent Systems · Vector Stores · LangChain · Langfuse · RAGAS · DeepEval
 
-**Stack:** Python · LLMs · RAG · AI Agents · Multi-Agent Systems · Vector Stores · LangChain · Langfuse · RAGAS · DeepEval
-
-🔗 [Ver projeto](https://github.com/Yuri-Fernando/OmniMind_AI_OS)
+🔗 [Repositório](https://github.com/Yuri-Fernando/OmniMind_AI_OS)
 
 ---
 
-### 02 · AI-Network-Optimizer
+### 📡 AI-Network-Optimizer
 
-**Arquitetura distribuída para análise de métricas de redes 5G com Machine Learning.**
+Sistema distribuído de análise de métricas de redes inspirado em conceitos de **5G e O-RAN**, com ingestão via gRPC, inferência de Machine Learning, API e infraestrutura containerizada.
 
-Projeto inspirado em conceitos de **Open RAN/O-RAN**, com ingestão de telemetria via gRPC, serviço de inferência desacoplado, API Gateway, Docker, Kubernetes e autoscaling.
+**Tecnologias:** Python · Machine Learning · gRPC · REST API · Docker · Kubernetes · HPA · Redis · 5G · O-RAN
 
-**Stack:** Python · Machine Learning · gRPC · REST API · Docker · Kubernetes · HPA · Distributed Systems · 5G · O-RAN
-
-🔗 [Ver projeto](https://github.com/Yuri-Fernando/AI-Network-Optimizer)
+🔗 [Repositório](https://github.com/Yuri-Fernando/AI-Network-Optimizer)
 
 ---
 
-### 03 · Churn Intelligence
+### 📈 Churn Intelligence
 
-**Pipeline end-to-end de Machine Learning para análise comportamental e predição de churn.**
+Pipeline end-to-end para **predição de churn e inteligência de retenção**, combinando engenharia de features, Machine Learning, explicabilidade e tracking de experimentos.
 
-Integra engenharia de features, modelagem preditiva, segmentação, explicabilidade e tracking de experimentos para transformar comportamento de usuários em sinais de retenção.
+**Tecnologias:** Python · Pandas · scikit-learn · Random Forest · Gradient Boosting · SHAP · MLflow · Feature Engineering · MLOps
 
-**Stack:** Python · Pandas · scikit-learn · Random Forest · Gradient Boosting · SHAP · MLflow · Feature Engineering · MLOps
-
-🔗 [Ver projeto](https://github.com/Yuri-Fernando/Churn_intelligence)
+🔗 [Repositório](https://github.com/Yuri-Fernando/Churn_intelligence)
 
 ---
 
-### 04 · AuditFlow — RPA Contábil Inteligente
+### ⚙️ AuditFlow — RPA Contábil Inteligente
 
-**Pipeline de automação contábil integrando RPA, ETL, Machine Learning, explicabilidade e BI.**
+Pipeline de automação contábil integrando **RPA, ETL, Machine Learning, IA explicável e BI**, com validação, rastreabilidade e análise de inconsistências.
 
-Automatiza etapas de extração, padronização e validação de dados, incorporando detecção de anomalias, rastreabilidade e visualização de indicadores operacionais.
+**Tecnologias:** Python · RPA · ETL · Machine Learning · SHAP · LIME · Data Validation · Data Governance · Looker Studio
 
-**Stack:** Python · RPA · ETL · Machine Learning · SHAP · LIME · Data Validation · Data Governance · Looker Studio
-
-🔗 [Ver projeto](https://github.com/Yuri-Fernando/Projeto-RPA-Contabil_Inteligente)
+🔗 [Repositório](https://github.com/Yuri-Fernando/Projeto-RPA-Contabil_Inteligente)
 
 ---
 
 ## Outros Projetos Relevantes
 
-### AegisLLM
-
-Laboratório local-first para **segurança, avaliação e governança de aplicações com LLMs**, incluindo guardrails, prompt injection, RAG security, red teaming e AI security.
-
-### Credit Score Predictor
-
-Pipeline de **Machine Learning + AWS**, com API Gateway, Lambda, SageMaker, DynamoDB, S3 e Streamlit.
-
-### RiskCredit
-
-Aplicação de **Machine Learning interpretável para análise de risco de crédito**, utilizando Random Forest, SMOTE, SHAP e dashboard interativo.
-
-### Agente-RAG
-
-Sistema de **RAG multicanal** integrando Google Drive, Supabase, n8n e Telegram para ingestão, indexação e consulta de documentos.
-
-### AgenteMCP
-
-Integração de **Model Context Protocol, n8n e agentes de IA**, explorando execução de ferramentas e integração com serviços externos.
+| Projeto                     | Área                     | Tecnologias                                                   |
+| --------------------------- | ------------------------ | ------------------------------------------------------------- |
+| **AegisLLM**                | AI Security & Governance | LLMs · DLP · Guardrails · OWASP LLM · MITRE ATLAS             |
+| **RiskCredit**              | Credit Risk / ML         | Python · Random Forest · SMOTE · SHAP · Dash                  |
+| **Credit Score Predictor**  | ML + Cloud               | AWS · Lambda · API Gateway · SageMaker · DynamoDB · Streamlit |
+| **Agente-RAG**              | RAG / Automation         | n8n · Supabase · Google Drive · Telegram                      |
+| **AgenteMCP**               | Agentic AI               | MCP · n8n · LLMs · APIs                                       |
+| **Voice Anti-Spoofing**     | AI Security              | Python · DSP · Deep Learning · Voice Biometrics               |
+| **AuraSense**               | AI + Signal Processing   | Python · DSP · Random Forest · ESP32                          |
+| **VisionGuard**             | Computer Vision          | Python · Object Detection · Event-Driven Systems              |
+| **QAOA Portfolio**          | Quantum Computing        | Python · Qiskit · QAOA · QUBO                                 |
+| **CyberLab**                | Cybersecurity            | Python · Linux · Nmap · Hardening                             |
+| **AI Network Monitoring**   | Telecom / ML             | Python · gRPC · Kubernetes · ML                               |
+| **Regulatory Intelligence** | AI + Finance             | LLMs · Embeddings · FAISS · FastAPI                           |
 
 ---
 
-## Stack
+# Tech Stack
 
-### AI & Machine Learning
+## 🧠 Artificial Intelligence & GenAI
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool_Calling-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_Search-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-0369A1?style=flat-square"/>
+</p>
+
+**Principais frameworks e ferramentas**
+
+Python · LangChain · LangGraph · CrewAI · OpenAI API · Claude API · RAGAS · DeepEval · Langfuse
+
+---
+
+## 🤖 Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-111827?style=flat-square"/>
+</p>
+
+Machine Learning · Deep Learning · NLP · Computer Vision · Feature Engineering · Model Evaluation · Explainable AI · Classification · Regression · Clustering · Anomaly Detection · Reinforcement Learning · Predictive Modeling
+
+---
+
+## 📊 Data Engineering & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-5C3EE8?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/SHAP-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-</p>
-
-### Data & Engineering
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
-### Cloud, DevOps & Systems
+ETL · Data Pipelines · Data Modeling · Feature Engineering · Data Validation · Data Quality · Analytics · PostgreSQL · Vector Databases
+
+---
+
+## ☁️ Cloud, MLOps & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-### Automation & Integration
+AWS Lambda · API Gateway · SageMaker · S3 · DynamoDB · Docker · Kubernetes · HPA · CI/CD · MLflow · Redis · Observability
+
+---
+
+## ⚙️ Software Engineering & APIs
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+REST APIs · gRPC · Microservices · Event-Driven Architecture · Backend · System Integration · Software Architecture · Testing
+
+---
+
+## 🔄 Automation & Intelligent Workflows
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/RPA-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/APIs-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workflow_Automation-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Integration-0F766E?style=flat-square"/>
 </p>
 
+n8n · RPA · Workflow Orchestration · CRM Integration · WhatsApp Automation · API Integration · Business Process Automation
+
 ---
 
-## Engineering Focus
+## 🔬 Applied Research & Advanced Computing
+
+Pesquisa aplicada em **IA, Machine Learning, processamento de sinais, sistemas inteligentes e otimização**.
+
+Experiência em:
+
+* Reinforcement Learning
+* Controle adaptativo
+* Processamento Digital de Sinais
+* Computer Vision
+* IoT e sistemas embarcados
+* Computação quântica
+* QAOA / QUBO
+* Otimização matemática
+* Modelagem estatística
+* Simulação Monte Carlo
+
+---
+
+## 📚 Formação & Pesquisa
+
+🎓 **Doutorado em Ciência da Computação — em andamento**
+
+🔬 Pesquisa aplicada em Inteligência Artificial, sistemas inteligentes e engenharia de dados.
+
+🎓 **Mestrado em Engenharia**
+
+Projetos envolvendo modelagem matemática, energia, processamento de sinais, IoT e sistemas embarcados.
+
+📚 Formação complementar em **IoT, Engenharia de Software, Data Analytics e Ciência de Dados**.
+
+---
+
+## Atualmente construindo
 
 ```text
-AI Engineering
-├── LLMs / RAG / AI Agents
-├── Multi-Agent Systems
-├── Tool Calling & MCP
-├── Evaluation & Observability
-└── AI Security & Governance
-
-Machine Learning
-├── Predictive Modeling
-├── Feature Engineering
-├── Explainable AI
-├── Experiment Tracking
-└── MLOps
-
-Data & Systems
-├── Data Pipelines
-├── ETL / ELT
-├── APIs & Microservices
-├── Distributed Systems
-├── Docker / Kubernetes
-└── Cloud Architecture
-
-Automation
-├── n8n
-├── RPA
-├── Workflow Orchestration
-└── System Integration
+AI Agents
+      ↓
+LLMs + RAG + Tools
+      ↓
+Data & Knowledge
+      ↓
+Automation & Orchestration
+      ↓
+APIs + Cloud + Infrastructure
+      ↓
+Decisions & Actions
 ```
 
----
-
-## Formação & Pesquisa
-
-**Doutorado em Ciência da Computação**
-Pesquisa aplicada em IA, sistemas inteligentes, dados e engenharia.
-
-**Mestrado em Engenharia**
-Projetos aplicados envolvendo modelagem matemática, processamento de sinais, energia e sistemas inteligentes.
-
-**Pós-graduação em IoT / Engenharia de Software / Data & Analytics**
-
-Minha formação acadêmica é complementada por projetos práticos em **IA, Data Science, Engenharia de Dados, sistemas embarcados, automação e computação aplicada**.
+Meu foco é desenvolver sistemas nos quais **IA não seja apenas uma interface de conversa, mas parte real da arquitetura do produto**.
 
 ---
 
-## Como Eu Penso
+## Princípios de Engenharia
 
-> **IA sem engenharia vira demo.**
+> **IA sem arquitetura vira demo.**
 > **Dados sem contexto viram ruído.**
-> **Automação sem arquitetura vira dívida técnica.**
+> **Automação sem integração vira tarefa isolada.**
+> **Modelo sem avaliação vira hipótese.**
 
-Meu objetivo é construir sistemas que conectem **dados → inteligência → decisão → execução**.
+Construo soluções buscando equilibrar **engenharia, inteligência, observabilidade e aplicação prática**.
 
 ---
 
@@ -221,17 +272,15 @@ Meu objetivo é construir sistemas que conectem **dados → inteligência → de
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+📧 **[yuri_dubbern@hotmail.com](mailto:yuri_dubbern@hotmail.com)**
 
-<a href="mailto:SEU_EMAIL_PROFISSIONAL">
-<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+💼 **[LinkedIn](https://www.linkedin.com/in/yuridubbern)**
 
-<a href="https://github.com/Yuri-Fernando">
-<img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 **[Linktree](https://linktr.ee/yuri.f.dubbern)**
+
+🔬 **[Currículo Lattes](http://lattes.cnpq.br/7151392692642166)**
+
+💻 **[GitHub](https://github.com/Yuri-Fernando)**
 
 </div>
 
@@ -239,6 +288,8 @@ Meu objetivo é construir sistemas que conectem **dados → inteligência → de
 
 <div align="center">
 
-### Construindo sistemas inteligentes com engenharia, dados e IA.
+### AI · Data · Automation · Engineering
+
+**Construindo sistemas inteligentes para problemas reais.**
 
 </div>
