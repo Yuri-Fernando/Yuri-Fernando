@@ -49,43 +49,63 @@ Atualmente, estou direcionando essa experiência para o mercado de tecnologia, b
 
 ## Projetos em Destaque
 
-### 🤖 OmniMind AI OS
+### 👁️ Argus
 
-Sistema modular para orquestração de **agentes de IA**, com planejamento, RAG, memória, ferramentas dinâmicas, avaliação e observabilidade.
+Plataforma full-stack de Dados & IA para Customer Intelligence: Lakehouse (Databricks), Data Warehouse (Snowflake), MDM/Golden Record, Machine Learning, RAG (cloud + local), agentes de IA (LangGraph/Agno/MCP/A2A) e governança de dados.
 
-**Tecnologias:** Python · LLMs · RAG · AI Agents · Multi-Agent Systems · Vector Stores · LangChain · Langfuse · RAGAS · DeepEval
+**Tecnologias:** Python · Databricks · Snowflake · dbt · MLflow · LangGraph · Agno · MCP · RAG · Kubernetes · Terraform
 
-🔗 [Repositório](https://github.com/Yuri-Fernando/OmniMind_AI_OS)
-
----
-
-### 📡 AI-Network-Optimizer
-
-Sistema distribuído de análise de métricas de redes inspirado em conceitos de **5G e O-RAN**, com ingestão via gRPC, inferência de Machine Learning, API e infraestrutura containerizada.
-
-**Tecnologias:** Python · Machine Learning · gRPC · REST API · Docker · Kubernetes · HPA · Redis · 5G · O-RAN
-
-🔗 [Repositório](https://github.com/Yuri-Fernando/AI-Network-Optimizer)
+🔗 [Repositório](https://github.com/Yuri-Fernando/Argus)
 
 ---
 
-### 📈 Churn Intelligence
+### ⚖️ ThemisAI
 
-Pipeline end-to-end para **predição de churn e inteligência de retenção**, combinando engenharia de features, Machine Learning, explicabilidade e tracking de experimentos.
+Plataforma de governança de IA e privacidade sob a LGPD: PII detection, políticas declarativas, geração automática de RIPD, fairness audit, red-teaming e privacidade diferencial. 41 capacidades, 477 testes reais.
 
-**Tecnologias:** Python · Pandas · scikit-learn · Random Forest · Gradient Boosting · SHAP · MLflow · Feature Engineering · MLOps
+**Tecnologias:** Python · FastAPI · Streamlit · Machine Learning · AI Governance · Compliance · Privacy
 
-🔗 [Repositório](https://github.com/Yuri-Fernando/Churn_intelligence)
+🔗 [Repositório](https://github.com/Yuri-Fernando/ThemisAI)
 
 ---
 
-### ⚙️ AuditFlow — RPA Contábil Inteligente
+### 📈 RetentIQ
 
-Pipeline de automação contábil integrando **RPA, ETL, Machine Learning, IA explicável e BI**, com validação, rastreabilidade e análise de inconsistências.
+Plataforma full-stack de inteligência de receita e retenção de clientes para e-commerce: ETL, Data Warehouse, ML (churn/forecast/recomendação), API REST+GraphQL, dashboard Next.js.
 
-**Tecnologias:** Python · RPA · ETL · Machine Learning · SHAP · LIME · Data Validation · Data Governance · Looker Studio
+**Tecnologias:** Python · TypeScript · Next.js · Node.js · Machine Learning · Data Engineering
 
-🔗 [Repositório](https://github.com/Yuri-Fernando/Projeto-RPA-Contabil_Inteligente)
+🔗 [Repositório](https://github.com/Yuri-Fernando/RetentIQ)
+
+---
+
+### 🏗️ Enterprise-Automation
+
+Plataforma de automação de infraestrutura AWS, Terraform-first: gerenciamento de configuração via Ansible/PowerShell, orquestrador Python de self-healing, CI/CD via GitHub Actions, MySQL e dashboard de observabilidade.
+
+**Tecnologias:** Terraform · AWS · Ansible · PowerShell · Python · CI/CD · Self-Healing
+
+🔗 [Repositório](https://github.com/Yuri-Fernando/Enterprise-Automation)
+
+---
+
+### 🛡️ AegisLLM
+
+Gateway de segurança para múltiplos LLMs com red teaming contínuo: RAG security, roteamento multi-LLM e observabilidade.
+
+**Tecnologias:** Python · LLM Security · LLMOps · RAG · Red Teaming · AI Governance
+
+🔗 [Repositório](https://github.com/Yuri-Fernando/AegisLLM)
+
+---
+
+### 📜 TRINITY
+
+Pipeline de IA para quantificação de incerteza regulatória: ingestão de documentos, NLP, embeddings, classificação por LLM e dashboard.
+
+**Tecnologias:** Python · LLMs · NLP · Embeddings · Streamlit · Regulatory Tech
+
+🔗 [Repositório](https://github.com/Yuri-Fernando/TRINITY)
 
 ---
 
@@ -93,7 +113,10 @@ Pipeline de automação contábil integrando **RPA, ETL, Machine Learning, IA ex
 
 | Projeto                     | Área                     | Tecnologias                                                   |
 | --------------------------- | ------------------------ | ------------------------------------------------------------- |
-| **AegisLLM**                | AI Security & Governance | LLMs · DLP · Guardrails · OWASP LLM · MITRE ATLAS             |
+| **OmniMind AI OS**          | Agentic AI                | Python · LangChain · RAG · Multi-Agent Systems · Langfuse      |
+| **AI-Network-Optimizer**    | Telecom / ML              | Python · gRPC · Kubernetes · 5G · O-RAN                        |
+| **Churn Intelligence**      | ML / Data Science         | Python · scikit-learn · SHAP · MLflow · Feature Engineering    |
+| **AuditFlow (RPA Contábil)**| Automation / BI           | Python · RPA · ETL · SHAP · LIME · Looker Studio                |
 | **RiskCredit**              | Credit Risk / ML         | Python · Random Forest · SMOTE · SHAP · Dash                  |
 | **Credit Score Predictor**  | ML + Cloud               | AWS · Lambda · API Gateway · SageMaker · DynamoDB · Streamlit |
 | **Agente-RAG**              | RAG / Automation         | n8n · Supabase · Google Drive · Telegram                      |
@@ -103,8 +126,6 @@ Pipeline de automação contábil integrando **RPA, ETL, Machine Learning, IA ex
 | **VisionGuard**             | Computer Vision          | Python · Object Detection · Event-Driven Systems              |
 | **QAOA Portfolio**          | Quantum Computing        | Python · Qiskit · QAOA · QUBO                                 |
 | **CyberLab**                | Cybersecurity            | Python · Linux · Nmap · Hardening                             |
-| **AI Network Monitoring**   | Telecom / ML             | Python · gRPC · Kubernetes · ML                               |
-| **Regulatory Intelligence** | AI + Finance             | LLMs · Embeddings · FAISS · FastAPI                           |
 
 ---
 
@@ -153,12 +174,14 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Feature Engineeri
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
-ETL · Data Pipelines · Data Modeling · Feature Engineering · Data Validation · Data Quality · Analytics · PostgreSQL · Vector Databases
+ETL · Data Pipelines · Data Modeling · Data Warehouse · Semantic Layer · Feature Engineering · Data Validation · Data Quality · Analytics · PostgreSQL · Vector Databases
 
 ---
 
@@ -167,13 +190,14 @@ ETL · Data Pipelines · Data Modeling · Feature Engineering · Data Validation
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
-AWS Lambda · API Gateway · SageMaker · S3 · DynamoDB · Docker · Kubernetes · HPA · CI/CD · MLflow · Redis · Observability
+Terraform (IaC) · AWS Lambda · API Gateway · SageMaker · S3 · DynamoDB · Docker · Kubernetes · HPA · CI/CD · MLflow · Redis · Observability
 
 ---
 
