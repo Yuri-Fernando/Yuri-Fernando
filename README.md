@@ -645,33 +645,7 @@ Actions
 
 ### Frameworks & Concepts
 
-`LangChain`
-
-`LangGraph`
-
-`Agno`
-
-`CrewAI`
-
-`RAG`
-
-`MCP`
-
-`A2A`
-
-`Tool Calling`
-
-`Embeddings`
-
-`Vector Search`
-
-`Multi-Agent Systems`
-
-`Agent Memory`
-
-`LLM Evaluation`
-
-`LLMOps`
+`LangChain` `LangGraph` `Agno` `CrewAI` `RAG` `MCP` `A2A` `Tool Calling` `Embeddings` `Vector Search` `Multi-Agent Systems` `Agent Memory` `LLM Evaluation` `LLMOps`
 
 ---
 
@@ -701,37 +675,7 @@ ML / Analytics / BI
 
 ### Data Architecture
 
-`ETL / ELT`
-
-`Data Pipelines`
-
-`Data Modeling`
-
-`Data Warehouse`
-
-`Data Lake`
-
-`Lakehouse`
-
-`Data Mesh`
-
-`Data Products`
-
-`Medallion Architecture`
-
-`Streaming`
-
-`Data Quality`
-
-`Data Validation`
-
-`Lineage`
-
-`Semantic Layer`
-
-`Analytics`
-
-`BI`
+`ETL / ELT` `Data Pipelines` `Data Modeling` `Data Warehouse` `Data Lake` `Lakehouse` `Data Mesh` `Data Products` `Medallion Architecture` `Streaming` `Data Quality` `Data Validation` `Lineage` `Semantic Layer` `Analytics` `BI`
 
 ### Technologies
 
@@ -931,23 +875,7 @@ Applications
 
 ### Concepts
 
-`Metrics`
-
-`Logs`
-
-`Distributed Tracing`
-
-`SLIs`
-
-`SLOs`
-
-`Health Checks`
-
-`Alerting`
-
-`Model Monitoring`
-
-`Infrastructure Monitoring`
+`Metrics` `Logs` `Distributed Tracing` `SLIs` `SLOs` `Health Checks` `Alerting` `Model Monitoring` `Infrastructure Monitoring`
 
 ---
 
@@ -969,23 +897,7 @@ Automação também é uma linha recorrente nos meus projetos.
 
 ### Areas
 
-`n8n`
-
-`RPA`
-
-`Workflow Orchestration`
-
-`API Integration`
-
-`Business Process Automation`
-
-`CRM Integration`
-
-`AI Agents`
-
-`Event-Driven Automation`
-
-`Intelligent Automation`
+`n8n` `RPA` `Workflow Orchestration` `API Integration` `Business Process Automation` `CRM Integration` `AI Agents` `Event-Driven Automation` `Intelligent Automation`
 
 ---
 
@@ -1193,7 +1105,7 @@ Minha pesquisa acadêmica e meus projetos também exploram temas além da engenh
 
 Pesquisa em sistemas inteligentes, Inteligência Artificial, Machine Learning, automação e aplicações orientadas a dados.
 
-### 🎓 Mestrado em Engenharia
+### 🎓 Mestrado em Engenharia Elétrica
 
 Pesquisa envolvendo modelagem matemática, sistemas de engenharia, processamento de sinais, IoT e sistemas embarcados.
 
