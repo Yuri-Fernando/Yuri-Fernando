@@ -110,33 +110,7 @@ O **Argus** utiliza **Customer Intelligence** como domínio de negócio para exp
 
 O projeto funciona como minha principal arquitetura de referência para integrar conceitos de:
 
-`Domain-Driven Design`
-
-`Microservices`
-
-`Event-Driven Architecture`
-
-`Kafka · RabbitMQ`
-
-`Java · Python`
-
-`REST · GraphQL · gRPC`
-
-`Docker · Kubernetes`
-
-`Service Mesh`
-
-`AWS · Terraform`
-
-`Data Lake · Lakehouse · Data Mesh`
-
-`Spark · Databricks · Snowflake`
-
-`Machine Learning · MLOps`
-
-`RAG · Multi-Agent Systems · MCP`
-
-`AI Governance · AI Security · Adversarial ML`
+`Domain-Driven Design` `Microservices` `Event-Driven Architecture` `Kafka · RabbitMQ` `Java · Python` `REST · GraphQL · gRPC` `Docker · Kubernetes` `Service Mesh` `AWS · Terraform` `Data Lake · Lakehouse · Data Mesh` `Spark · Databricks · Snowflake` `Machine Learning · MLOps` `RAG · Multi-Agent Systems · MCP` `AI Governance · AI Security · Adversarial ML`
 
 ### Engineering Flow
 
