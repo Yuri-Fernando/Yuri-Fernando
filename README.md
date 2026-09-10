@@ -1,10 +1,10 @@
 <div align="center">
 
-# Yuri Fernando Dubbern
+Yuri Fernando Dubbern
 
-### AI/ML & Data Engineer · Software & Solution Architecture · Applied AI Research
+AI/ML & Data Engineer · Software & Solution Architecture · Applied AI Research
 
-**Building intelligent systems across AI, Data, Software Architecture and Cloud.**
+Building intelligent systems across AI, Data, Software Architecture and Cloud.
 
 <br>
 
@@ -30,23 +30,20 @@
 
 <br><br>
 
-`Artificial Intelligence` · `Machine Learning` · `Data Engineering` · `Software Architecture` · `Distributed Systems` · `Cloud` · `MLOps`
+Artificial Intelligence • Machine Learning • Data Engineering • Software Architecture • Distributed Systems • Cloud • MLOps
 
 </div>
 
----
+Sobre
 
-# Sobre
+Sou Mestre em Engenharia e doutorando em Ciência da Computação pela UFSCar, com atuação em pesquisa aplicada e desenvolvimento de sistemas envolvendo Inteligência Artificial, Machine Learning, Engenharia de Dados, Arquitetura de Software e Automação Inteligente.
 
-Sou **Mestre em Engenharia e doutorando em Ciência da Computação pela UFSCar**, com atuação em pesquisa aplicada e desenvolvimento de sistemas envolvendo **Inteligência Artificial, Machine Learning, Engenharia de Dados, Arquitetura de Software e Automação Inteligente**.
+Minha principal profundidade técnica está em AI/ML e Data, enquanto meus projetos avançam horizontalmente por backend engineering, sistemas distribuídos, infraestrutura cloud, DevOps, MLOps, IoT, robótica e automação.
 
-Minha principal profundidade técnica está em **AI/ML e Data**, enquanto meus projetos avançam horizontalmente por **backend engineering, sistemas distribuídos, infraestrutura cloud, DevOps, MLOps, IoT, robótica e automação**.
-
-Desenvolvo desde modelos de Machine Learning e sistemas multiagente até **APIs, microsserviços, arquiteturas orientadas a eventos, plataformas de dados e infraestrutura cloud-native**.
+Desenvolvo desde modelos de Machine Learning e sistemas multiagente até APIs, microsserviços, arquiteturas orientadas a eventos, plataformas de dados e infraestrutura cloud-native.
 
 Meu foco é conectar:
 
-```text
 Data
   ↓
 Intelligence
@@ -54,19 +51,15 @@ Intelligence
 Decision
   ↓
 Execution
-```
 
 O objetivo não é apenas construir modelos que funcionem isoladamente, mas projetar os sistemas necessários para torná-los:
 
-**escaláveis · observáveis · resilientes · seguros · governados · operacionalizáveis**
+escaláveis · observáveis · resilientes · seguros · governados · operacionalizáveis
 
----
+Engineering Profile — T-Shaped
 
-# Engineering Profile — T-Shaped
+Minha profundidade principal está em Artificial Intelligence, Machine Learning e Data Engineering, apoiada por uma visão horizontal de Software Architecture, Cloud, Platform Engineering e Intelligent Systems.
 
-Minha profundidade principal está em **Artificial Intelligence, Machine Learning e Data Engineering**, apoiada por uma visão horizontal de Software Architecture, Cloud, Platform Engineering e Intelligent Systems.
-
-```text
                               AI / ML / DATA
                                    │
                                    │
@@ -94,27 +87,23 @@ Minha profundidade principal está em **Artificial Intelligence, Machine Learnin
                                    │
                       IoT · Robotics · Control
                      Automation · Embedded Systems
-```
 
-Esse perfil **T-shaped** me permite aprofundar modelos, pipelines e sistemas de IA sem perder de vista o ambiente completo onde eles operam — arquitetura, integração, infraestrutura, observabilidade, segurança, governança e operação.
+Esse perfil T-shaped me permite aprofundar modelos, pipelines e sistemas de IA sem perder de vista o ambiente completo onde eles operam — arquitetura, integração, infraestrutura, observabilidade, segurança, governança e operação.
 
----
+🦉 Flagship Engineering Project
 
-# 🦉 Flagship Engineering Project
+Argus — Enterprise AI & Data Platform
 
-## [Argus — Enterprise AI & Data Platform](https://github.com/Yuri-Fernando/Argus)
+Enterprise Reference Architecture for AI, Data & Distributed Systems
 
-### Enterprise Reference Architecture for AI, Data & Distributed Systems
-
-O **Argus** utiliza **Customer Intelligence** como domínio de negócio para explorar como aplicações distribuídas, plataformas de dados, Machine Learning, IA Generativa, governança e infraestrutura cloud podem operar dentro de uma mesma arquitetura corporativa.
+O Argus utiliza Customer Intelligence como domínio de negócio para explorar como aplicações distribuídas, plataformas de dados, Machine Learning, IA Generativa, governança e infraestrutura cloud podem operar dentro de uma mesma arquitetura corporativa.
 
 O projeto funciona como minha principal arquitetura de referência para integrar conceitos de:
 
-`Domain-Driven Design` `Microservices` `Event-Driven Architecture` `Kafka · RabbitMQ` `Java · Python` `REST · GraphQL · gRPC` `Docker · Kubernetes` `Service Mesh` `AWS · Terraform` `Data Lake · Lakehouse · Data Mesh` `Spark · Databricks · Snowflake` `Machine Learning · MLOps` `RAG · Multi-Agent Systems · MCP` `AI Governance · AI Security · Adversarial ML`
+Domain-Driven Design • Microservices • Event-Driven Architecture • Kafka · RabbitMQ • Java · Python • REST · GraphQL · gRPC • Docker · Kubernetes • Service Mesh • AWS · Terraform • Data Lake · Lakehouse · Data Mesh • Spark · Databricks · Snowflake • Machine Learning · MLOps • RAG · Multi-Agent Systems · MCP • AI Governance · AI Security · Adversarial ML
 
-### Engineering Flow
+Engineering Flow
 
-```text
                        Applications
                             │
                    Angular / Web Clients
@@ -146,13 +135,11 @@ O projeto funciona como minha principal arquitetura de referência para integrar
                             └────────┬────────┘
                                      │
                              Analytics / BI
-```
 
-Cada componente é introduzido para representar uma **decisão arquitetural, padrão de integração ou trade-off de engenharia**, e não simplesmente para aumentar a quantidade de tecnologias utilizadas.
+Cada componente é introduzido para representar uma decisão arquitetural, padrão de integração ou trade-off de engenharia, e não simplesmente para aumentar a quantidade de tecnologias utilizadas.
 
-### Architecture Topics
+Architecture Topics
 
-```text
 Application Architecture
         ↓
 Domain-Driven Design
@@ -174,36 +161,41 @@ RAG / Agentic AI
 AI Governance & Security
         ↓
 Cloud-Native Infrastructure
-```
 
-> **Importante:** capacidades arquiteturais planejadas, em desenvolvimento e implementadas são explicitamente separadas no roadmap e na documentação do projeto.
+Importante: capacidades arquiteturais planejadas, em desenvolvimento e implementadas são explicitamente separadas no roadmap e na documentação do projeto.
 
----
+Core Engineering Projects
 
-# Core Engineering Projects
+⚖️ ThemisAI
 
-## ⚖️ [ThemisAI](https://github.com/Yuri-Fernando/ThemisAI)
+AI Governance · AI Security · Responsible AI
 
-### AI Governance · AI Security · Responsible AI
-
-Plataforma voltada à **governança, segurança, privacidade e avaliação de sistemas de Inteligência Artificial**.
+Plataforma voltada à governança, segurança, privacidade e avaliação de sistemas de Inteligência Artificial.
 
 A arquitetura engloba:
 
-* PII detection
-* LGPD
-* políticas declarativas
-* geração de RIPD
-* fairness auditing
-* differential privacy
-* red-teaming
-* model risk
-* avaliação de modelos
-* segurança de IA
+PII detection
 
-A evolução do projeto inclui uma camada específica de **Adversarial Machine Learning**, com avaliação de robustez e cenários de ataque e defesa.
+LGPD
 
-```text
+políticas declarativas
+
+geração de RIPD
+
+fairness auditing
+
+differential privacy
+
+red-teaming
+
+model risk
+
+avaliação de modelos
+
+segurança de IA
+
+A evolução do projeto inclui uma camada específica de Adversarial Machine Learning, com avaliação de robustez e cenários de ataque e defesa.
+
 AI Model
    │
    ↓
@@ -218,21 +210,17 @@ ThemisAI
            │
            ↓
      Deployment Decision
-```
 
-**Focus**
+Focus
 
-`AI Governance` · `AI Security` · `Adversarial ML` · `Privacy` · `LGPD` · `Fairness` · `Red Teaming`
+AI Governance • AI Security • Adversarial ML • Privacy • LGPD • Fairness • Red Teaming
 
----
+🏗️ Enterprise Automation
 
-## 🏗️ [Enterprise Automation](https://github.com/Yuri-Fernando/Enterprise-Automation)
+Cloud Platform Engineering · Infrastructure Automation
 
-### Cloud Platform Engineering · Infrastructure Automation
+Projeto voltado à automação e operação de infraestrutura utilizando uma abordagem Terraform-first, integrando provisionamento, configuração, CI/CD, observabilidade e automação operacional.
 
-Projeto voltado à automação e operação de infraestrutura utilizando uma abordagem **Terraform-first**, integrando provisionamento, configuração, CI/CD, observabilidade e automação operacional.
-
-```text
 Git
  │
  ↓
@@ -263,36 +251,41 @@ Observability
  │
  ↓
 Automated Remediation
-```
 
-**Focus**
+Focus
 
-`AWS` · `Terraform` · `Infrastructure as Code` · `Ansible` · `PowerShell` · `Python` · `CI/CD` · `Platform Engineering` · `Observability` · `Self-Healing`
+AWS • Terraform • Infrastructure as Code • Ansible • PowerShell • Python • CI/CD • Platform Engineering • Observability • Self-Healing
 
----
+📈 RetentIQ
 
-## 📈 [RetentIQ](https://github.com/Yuri-Fernando/RetentIQ)
-
-### Event-Driven SaaS · Customer Intelligence
+Event-Driven SaaS · Customer Intelligence
 
 Plataforma full-stack de inteligência de receita e retenção de clientes para e-commerce.
 
 Integra:
 
-* ETL
-* Data Warehouse
-* Machine Learning
-* churn prediction
-* forecasting
-* recommendation systems
-* REST APIs
-* GraphQL
-* dashboard web
-* observabilidade
+ETL
+
+Data Warehouse
+
+Machine Learning
+
+churn prediction
+
+forecasting
+
+recommendation systems
+
+REST APIs
+
+GraphQL
+
+dashboard web
+
+observabilidade
 
 Arquiteturalmente, o projeto evolui para explorar:
 
-```text
 Frontend
    ↓
 API Layer
@@ -308,21 +301,17 @@ Data / ML Services
 PostgreSQL / Warehouse
    ↓
 Observability
-```
 
-**Focus**
+Focus
 
-`Python` · `TypeScript` · `Next.js` · `Node.js` · `Machine Learning` · `Data Engineering` · `APIs` · `Distributed Systems`
+Python • TypeScript • Next.js • Node.js • Machine Learning • Data Engineering • APIs • Distributed Systems
 
----
+🛡️ AegisLLM
 
-## 🛡️ [AegisLLM](https://github.com/Yuri-Fernando/AegisLLM)
+LLM Security · AI Gateway · LLMOps
 
-### LLM Security · AI Gateway · LLMOps
+Gateway de segurança para múltiplos modelos de linguagem, com foco em LLM Security, red teaming, segurança de RAG, roteamento de modelos e observabilidade.
 
-Gateway de segurança para múltiplos modelos de linguagem, com foco em **LLM Security, red teaming, segurança de RAG, roteamento de modelos e observabilidade**.
-
-```text
 Application
     ↓
 AegisLLM Gateway
@@ -336,89 +325,95 @@ AegisLLM Gateway
            │
            ↓
        LLM Providers
-```
 
-**Focus**
+Focus
 
-`LLM Security` · `LLMOps` · `RAG Security` · `AI Gateway` · `Red Teaming` · `AI Governance`
+LLM Security • LLMOps • RAG Security • AI Gateway • Red Teaming • AI Governance
 
----
+Specialized Engineering & Research Projects
 
-# Specialized Engineering & Research Projects
+Projeto
 
-| Projeto                      | Engenharia / Pesquisa                                                                                  |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **VisionGuard**              | Computer Vision · YOLOv8 · ResNet · Deep Learning · Event-Driven Systems · Adversarial Computer Vision |
-| **Self-Evolving RL-PID AGV** | Reinforcement Learning · Controle Adaptativo · Robótica · PID · Robust / Adversarial RL                |
-| **OmniMind AI OS**           | Agentic AI · Planning · RAG · Memory · Multi-Agent Systems · Agent Orchestration                       |
-| **Churn Intelligence**       | Machine Learning · Data Science · Streaming · Spark · Model Robustness · MLOps                         |
-| **AI Network Optimizer**     | Telecom · O-RAN/xApp · Distributed Systems · ML · Kubernetes · gRPC                                    |
-| **TRINITY**                  | NLP · LLMs · Embeddings · Regulatory AI · Uncertainty Quantification                                   |
-| **Credit Score Predictor**   | Machine Learning · AWS · SageMaker · Lambda · API Gateway · DynamoDB                                   |
-| **RiskCredit**               | Credit Risk · Classification · Explainable AI · SHAP · SMOTE                                           |
-| **AuditFlow**                | RPA · ETL · Machine Learning · Explainable AI · BI                                                     |
-| **Voice Anti-Spoofing**      | Deep Learning · DSP · Voice Biometrics · AI Security                                                   |
-| **AuraSense**                | Signal Processing · Machine Learning · IoT · ESP32                                                     |
-| **Agente-RAG**               | RAG · n8n · Supabase · Google Drive · Telegram · Automation                                            |
-| **AgenteMCP**                | MCP · LLMs · n8n · APIs · Agentic AI                                                                   |
-| **QAOA Portfolio**           | Quantum Computing · QAOA · QUBO · Optimization                                                         |
-| **CyberLab**                 | Cybersecurity · Linux · Network Analysis · Hardening                                                   |
+Engenharia / Pesquisa
 
----
+VisionGuard
 
-# Software & Solution Architecture
+Computer Vision · YOLOv8 · ResNet · Deep Learning · Event-Driven Systems · Adversarial Computer Vision
 
-Meus projetos vêm incorporando práticas e padrões relacionados a **Software Architecture e System Design**.
+Self-Evolving RL-PID AGV
 
-### Architecture
+Reinforcement Learning · Controle Adaptativo · Robótica · PID · Robust / Adversarial RL
 
-`Domain-Driven Design`
+OmniMind AI OS
 
-`Clean Architecture`
+Agentic AI · Planning · RAG · Memory · Multi-Agent Systems · Agent Orchestration
 
-`Hexagonal Architecture`
+Churn Intelligence
 
-`SOLID`
+Machine Learning · Data Science · Streaming · Spark · Model Robustness · MLOps
 
-`Design Patterns`
+AI Network Optimizer
 
-`Microservices`
+Telecom · O-RAN/xApp · Distributed Systems · ML · Kubernetes · gRPC
 
-`Event-Driven Architecture`
+TRINITY
 
-### Distributed Systems
+NLP · LLMs · Embeddings · Regulatory AI · Uncertainty Quantification
 
-`Apache Kafka`
+Credit Score Predictor
 
-`RabbitMQ`
+Machine Learning · AWS · SageMaker · Lambda · API Gateway · DynamoDB
 
-`REST`
+RiskCredit
 
-`GraphQL`
+Credit Risk · Classification · Explainable AI · SHAP · SMOTE
 
-`gRPC`
+AuditFlow
 
-`Asynchronous Processing`
+RPA · ETL · Machine Learning · Explainable AI · BI
 
-`Distributed Messaging`
+Voice Anti-Spoofing
 
-### Cloud-Native Architecture
+Deep Learning · DSP · Voice Biometrics · AI Security
 
-`Docker`
+AuraSense
 
-`Kubernetes`
+Signal Processing · Machine Learning · IoT · ESP32
 
-`Helm`
+Agente-RAG
 
-`Service Mesh`
+RAG · n8n · Supabase · Google Drive · Telegram · Automation
 
-`Infrastructure as Code`
+AgenteMCP
 
-`GitOps`
+MCP · LLMs · n8n · APIs · Agentic AI
 
-### System Design
+QAOA Portfolio
 
-```text
+Quantum Computing · QAOA · QUBO · Optimization
+
+CyberLab
+
+Cybersecurity · Linux · Network Analysis · Hardening
+
+Software & Solution Architecture
+
+Meus projetos vêm incorporando práticas e padrões relacionados a Software Architecture e System Design.
+
+Architecture
+
+Domain-Driven Design • Clean Architecture • Hexagonal Architecture • SOLID • Design Patterns • Microservices • Event-Driven Architecture
+
+Distributed Systems
+
+Apache Kafka • RabbitMQ • REST • GraphQL • gRPC • Asynchronous Processing • Distributed Messaging
+
+Cloud-Native Architecture
+
+Docker • Kubernetes • Helm • Service Mesh • Infrastructure as Code • GitOps
+
+System Design
+
 Functional Requirements
         ↓
 Non-Functional Requirements
@@ -444,27 +439,31 @@ Observability
 Security
         ↓
 Trade-offs
-```
 
 A documentação dos principais projetos é progressivamente estruturada com:
 
-* Architecture Decision Records — ADRs
-* Request for Comments — RFCs
-* C4 diagrams
-* architecture documentation
-* system-design documentation
-* runbooks
-* API contracts
-* domain models
-* engineering standards
+Architecture Decision Records — ADRs
 
----
+Request for Comments — RFCs
 
-# Artificial Intelligence & Machine Learning
+C4 diagrams
+
+architecture documentation
+
+system-design documentation
+
+runbooks
+
+API contracts
+
+domain models
+
+engineering standards
+
+Artificial Intelligence & Machine Learning
 
 Minha atuação em IA engloba diferentes paradigmas e níveis do stack.
 
-```text
 Artificial Intelligence
 │
 ├── Machine Learning
@@ -512,23 +511,17 @@ Artificial Intelligence
     ├── Deployment
     ├── Monitoring
     └── Drift Detection
-```
 
----
+Adversarial Machine Learning
 
-# Adversarial Machine Learning
-
-Uma das linhas em expansão dentro dos projetos envolve **robustez e segurança de modelos de Machine Learning**.
+Uma das linhas em expansão dentro dos projetos envolve robustez e segurança de modelos de Machine Learning.
 
 O objetivo é avaliar não apenas:
 
-```text
 Does the model work?
-```
 
 mas também:
 
-```text
 How does the model fail?
 
 Can its decision boundary be manipulated?
@@ -538,29 +531,13 @@ How robust is it under adversarial perturbations?
 Can attacks be detected?
 
 Can robustness be improved?
-```
 
-### Research / Engineering Areas
+Research / Engineering Areas
 
-`Adversarial Examples`
+Adversarial Examples • Evasion Attacks • Data Poisoning • Model Extraction • Model Inversion • Adversarial Training • Robustness Evaluation • AI Red Teaming
 
-`Evasion Attacks`
+Application Across Projects
 
-`Data Poisoning`
-
-`Model Extraction`
-
-`Model Inversion`
-
-`Adversarial Training`
-
-`Robustness Evaluation`
-
-`AI Red Teaming`
-
-### Application Across Projects
-
-```text
                          ThemisAI
                             │
                   Adversarial Evaluation
@@ -578,15 +555,11 @@ Can robustness be improved?
                             │
                             ↓
                     Defensive Strategies
-```
 
----
-
-# Generative AI & Agentic Systems
+Generative AI & Agentic Systems
 
 A arquitetura de IA Generativa dos meus projetos vai além da chamada direta a modelos.
 
-```text
 Users / Systems
        ↓
 Application Layer
@@ -615,19 +588,15 @@ Knowledge Layer
 Tools / APIs
        ↓
 Actions
-```
 
-### Frameworks & Concepts
+Frameworks & Concepts
 
-`LangChain` `LangGraph` `Agno` `CrewAI` `RAG` `MCP` `A2A` `Tool Calling` `Embeddings` `Vector Search` `Multi-Agent Systems` `Agent Memory` `LLM Evaluation` `LLMOps`
+LangChain • LangGraph • Agno • CrewAI • RAG • MCP • A2A • Tool Calling • Embeddings • Vector Search • Multi-Agent Systems • Agent Memory • LLM Evaluation • LLMOps
 
----
-
-# Data Engineering & Analytics
+Data Engineering & Analytics
 
 Construo pipelines e arquiteturas de dados envolvendo:
 
-```text
 Data Sources
     ↓
 Ingestion
@@ -645,13 +614,12 @@ Lakehouse / Warehouse
 Data Products
     ↓
 ML / Analytics / BI
-```
 
-### Data Architecture
+Data Architecture
 
-`ETL / ELT` `Data Pipelines` `Data Modeling` `Data Warehouse` `Data Lake` `Lakehouse` `Data Mesh` `Data Products` `Medallion Architecture` `Streaming` `Data Quality` `Data Validation` `Lineage` `Semantic Layer` `Analytics` `BI`
+ETL / ELT • Data Pipelines • Data Modeling • Data Warehouse • Data Lake • Lakehouse • Data Mesh • Data Products • Medallion Architecture • Streaming • Data Quality • Data Validation • Lineage • Semantic Layer • Analytics • BI
 
-### Technologies
+Technologies
 
 <div>
 
@@ -675,13 +643,10 @@ ML / Analytics / BI
 
 </div>
 
----
-
-# Cloud & Platform Engineering
+Cloud & Platform Engineering
 
 Tenho expandido meus projetos para explorar não somente aplicações, mas também a infraestrutura necessária para operá-las.
 
-```text
 Source Code
     ↓
 Git
@@ -701,9 +666,8 @@ Applications
 Service Mesh
     ↓
 Observability
-```
 
-### Cloud
+Cloud
 
 <div>
 
@@ -713,7 +677,7 @@ Observability
 
 </div>
 
-### Platform / DevOps
+Platform / DevOps
 
 <div>
 
@@ -727,37 +691,14 @@ Observability
 
 </div>
 
-### Concepts
+Concepts
 
-`Infrastructure as Code`
+Infrastructure as Code • Configuration Management • Containerization • Orchestration • CI/CD • GitOps • Service Mesh • Horizontal Scaling • Self-Healing • Secrets Management • Observability
 
-`Configuration Management`
-
-`Containerization`
-
-`Orchestration`
-
-`CI/CD`
-
-`GitOps`
-
-`Service Mesh`
-
-`Horizontal Scaling`
-
-`Self-Healing`
-
-`Secrets Management`
-
-`Observability`
-
----
-
-# MLOps
+MLOps
 
 O pipeline de Machine Learning é tratado como parte da arquitetura de produção.
 
-```text
 Data
  ↓
 Data Validation
@@ -785,39 +726,15 @@ Monitoring
 Drift Detection
  ↓
 Retraining
-```
 
-### Engineering Areas
+Engineering Areas
 
-`MLflow`
+MLflow • Experiment Tracking • Model Registry • Model Versioning • Model Serving • CI/CD for ML • Data Validation • Model Monitoring • Drift Detection • Robustness Testing • AI Governance
 
-`Experiment Tracking`
-
-`Model Registry`
-
-`Model Versioning`
-
-`Model Serving`
-
-`CI/CD for ML`
-
-`Data Validation`
-
-`Model Monitoring`
-
-`Drift Detection`
-
-`Robustness Testing`
-
-`AI Governance`
-
----
-
-# Observability & Reliability
+Observability & Reliability
 
 Observabilidade é tratada como uma capacidade arquitetural transversal.
 
-```text
 Applications
      │
      ├── Metrics
@@ -833,9 +750,8 @@ Applications
        │
        ↓
     Grafana
-```
 
-### Stack
+Stack
 
 <div>
 
@@ -847,13 +763,11 @@ Applications
 
 </div>
 
-### Concepts
+Concepts
 
-`Metrics` `Logs` `Distributed Tracing` `SLIs` `SLOs` `Health Checks` `Alerting` `Model Monitoring` `Infrastructure Monitoring`
+Metrics • Logs • Distributed Tracing • SLIs • SLOs • Health Checks • Alerting • Model Monitoring • Infrastructure Monitoring
 
----
-
-# Automation & Intelligent Workflows
+Automation & Intelligent Workflows
 
 Automação também é uma linha recorrente nos meus projetos.
 
@@ -869,17 +783,14 @@ Automação também é uma linha recorrente nos meus projetos.
 
 </div>
 
-### Areas
+Areas
 
-`n8n` `RPA` `Workflow Orchestration` `API Integration` `Business Process Automation` `CRM Integration` `AI Agents` `Event-Driven Automation` `Intelligent Automation`
+n8n • RPA • Workflow Orchestration • API Integration • Business Process Automation • CRM Integration • AI Agents • Event-Driven Automation • Intelligent Automation
 
----
-
-# Intelligent Systems, Robotics & Control
+Intelligent Systems, Robotics & Control
 
 Minha formação em engenharia e pesquisa também sustenta projetos em sistemas inteligentes, controle e robótica.
 
-```text
 Sensors
    ↓
 Perception
@@ -894,39 +805,14 @@ Actuation
    ↓
 Environment
    ↺
-```
 
-### Areas
+Areas
 
-`Reinforcement Learning`
+Reinforcement Learning • Adaptive Control • PID Control • Robotics • AGVs • LiDAR • Computer Vision • Signal Processing • IoT • Embedded Systems • Optimization • Monte Carlo Simulation
 
-`Adaptive Control`
+Technology Stack
 
-`PID Control`
-
-`Robotics`
-
-`AGVs`
-
-`LiDAR`
-
-`Computer Vision`
-
-`Signal Processing`
-
-`IoT`
-
-`Embedded Systems`
-
-`Optimization`
-
-`Monte Carlo Simulation`
-
----
-
-# Technology Stack
-
-## Languages
+Languages
 
 <div>
 
@@ -944,9 +830,7 @@ Environment
 
 </div>
 
----
-
-## AI / Machine Learning
+AI / Machine Learning
 
 <div>
 
@@ -960,11 +844,9 @@ Environment
 
 </div>
 
-`Machine Learning` · `Deep Learning` · `Reinforcement Learning` · `Computer Vision` · `NLP` · `Explainable AI` · `Adversarial ML`
+Machine Learning • Deep Learning • Reinforcement Learning • Computer Vision • NLP • Explainable AI • Adversarial ML
 
----
-
-## Generative AI
+Generative AI
 
 <div>
 
@@ -982,11 +864,9 @@ Environment
 
 </div>
 
-`LangChain` · `LangGraph` · `Agno` · `CrewAI` · `RAG` · `MCP` · `A2A` · `Embeddings` · `Vector Search` · `Agent Orchestration`
+LangChain • LangGraph • Agno • CrewAI • RAG • MCP • A2A • Embeddings • Vector Search • Agent Orchestration
 
----
-
-## Backend & Distributed Systems
+Backend & Distributed Systems
 
 <div>
 
@@ -1000,11 +880,9 @@ Environment
 
 </div>
 
-`REST` · `GraphQL` · `gRPC` · `Microservices` · `Event-Driven Architecture` · `Asynchronous Processing`
+REST • GraphQL • gRPC • Microservices • Event-Driven Architecture • Asynchronous Processing
 
----
-
-## Data
+Data
 
 <div>
 
@@ -1020,11 +898,9 @@ Environment
 
 </div>
 
-`ETL` · `Data Pipelines` · `Data Warehouse` · `Data Lake` · `Lakehouse` · `Data Mesh` · `Data Products`
+ETL • Data Pipelines • Data Warehouse • Data Lake • Lakehouse • Data Mesh • Data Products
 
----
-
-## Cloud & Platform
+Cloud & Platform
 
 <div>
 
@@ -1042,72 +918,74 @@ Environment
 
 </div>
 
----
-
-# Research & Advanced Computing
+Research & Advanced Computing
 
 Minha pesquisa acadêmica e meus projetos também exploram temas além da engenharia tradicional de software.
 
-### Research Areas
+Research Areas
 
-* Artificial Intelligence
-* Machine Learning
-* Intelligent Automation
-* Reinforcement Learning
-* Distributed AI
-* Multi-Agent Systems
-* Robotics
-* Adaptive Control
-* Computer Vision
-* Digital Signal Processing
-* IoT
-* Embedded Systems
-* Optimization
-* Mathematical Modeling
-* Statistical Modeling
-* Monte Carlo Simulation
-* Quantum Computing
-* QAOA / QUBO
+Artificial Intelligence
 
----
+Machine Learning
 
-# Formação & Pesquisa
+Intelligent Automation
 
-### 🎓 Doutorado em Ciência da Computação — UFSCar
+Reinforcement Learning
 
-**Em andamento**
+Distributed AI
+
+Multi-Agent Systems
+
+Robotics
+
+Adaptive Control
+
+Computer Vision
+
+Digital Signal Processing
+
+IoT
+
+Embedded Systems
+
+Optimization
+
+Mathematical Modeling
+
+Statistical Modeling
+
+Monte Carlo Simulation
+
+Quantum Computing
+
+QAOA / QUBO
+
+Formação & Pesquisa
+
+🎓 Doutorado em Ciência da Computação — UFSCar
+
+Em andamento
 
 Pesquisa em sistemas inteligentes, Inteligência Artificial, Machine Learning, automação e aplicações orientadas a dados.
 
-### 🎓 Mestrado em Engenharia Elétrica
+🎓 Mestrado em Engenharia Elétrica
 
 Pesquisa envolvendo modelagem matemática, sistemas de engenharia, processamento de sinais, IoT e sistemas embarcados.
 
-### 📚 Formação complementar
+📚 Formação complementar
 
 Estudos complementares relacionados a:
 
-`Data Science`
+Data Science • Data Analytics • Software Engineering • Internet of Things • Industry 4.0
 
-`Data Analytics`
-
-`Software Engineering`
-
-`Internet of Things`
-
-`Industry 4.0`
-
----
-
-# Current Engineering Direction
+Current Engineering Direction
 
 Estou consolidando meus projetos em torno de uma pergunta central de engenharia:
 
-> **Como transformar um modelo de IA que funciona isoladamente em um sistema inteligente que seja escalável, observável, resiliente, seguro, governado e pronto para produção?**
+Como transformar um modelo de IA que funciona isoladamente em um sistema inteligente que seja escalável, observável, resiliente, seguro, governado e pronto para produção?
 
 Essa evolução atravessa:
 
-```text
 AI / ML
    │
    ↓
@@ -1130,11 +1008,9 @@ AI Security & Governance
    │
    ↓
 Production AI Systems
-```
 
 O objetivo é trabalhar cada vez mais na fronteira entre:
 
-```text
                   Artificial Intelligence
                           │
                           │
@@ -1147,25 +1023,21 @@ O objetivo é trabalhar cada vez mais na fronteira entre:
                     AI Engineering
                           │
               Production AI Systems
-```
 
----
+Engineering Principles
 
-# Engineering Principles
+IA sem arquitetura vira demo.
 
-> **IA sem arquitetura vira demo.**
+Dados sem contexto viram ruído.
 
-> **Dados sem contexto viram ruído.**
+Modelo sem avaliação vira hipótese.
 
-> **Modelo sem avaliação vira hipótese.**
+Sistema distribuído sem observabilidade vira investigação paranormal.
 
-> **Sistema distribuído sem observabilidade vira investigação paranormal.**
-
-> **Automação sem integração vira apenas outra tarefa isolada.**
+Automação sem integração vira apenas outra tarefa isolada.
 
 Busco construir sistemas equilibrando:
 
-```text
 Engineering
     +
 Intelligence
@@ -1177,15 +1049,11 @@ Observability
 Security
     +
 Practical Application
-```
 
-Meu objetivo é desenvolver sistemas nos quais **IA não seja apenas uma interface ou feature isolada, mas parte real da arquitetura do produto**.
+Meu objetivo é desenvolver sistemas nos quais IA não seja apenas uma interface ou feature isolada, mas parte real da arquitetura do produto.
 
----
+What I Build
 
-# What I Build
-
-```text
 Models
   ↓
 ML Systems
@@ -1201,15 +1069,12 @@ Observable Systems
 Secure & Governed AI
   ↓
 Production Intelligence
-```
 
----
-
-# Contato
+Contato
 
 <div align="center">
 
-### Vamos conectar engenharia, dados e inteligência.
+Vamos conectar engenharia, dados e inteligência.
 
 <br>
 
@@ -1231,14 +1096,14 @@ Production Intelligence
 
 <br><br>
 
-📍 **Brasil**
+📍 Brasil
 
-🎓 **UFSCar — PhD Researcher in Computer Science**
+🎓 UFSCar — PhD Researcher in Computer Science
 
 <br>
 
-### AI · Data · Architecture · Intelligent Systems
+AI · Data · Architecture · Intelligent Systems
 
-**Building models. Engineering the systems around them.**
+Building models. Engineering the systems around them.
 
 </div>
